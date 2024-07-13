@@ -27,10 +27,10 @@ This project showcases a basic implementation of a decentralized bank using Ethe
 
 ### Application Preview 
 
-![image](https://github.com/NikhTheTech/Smart-Contract-Management/assets/95464996/721ca4aa-02af-4de9-ac20-f0d4aed8e9c6)
+![Screenshot 2024-07-13 205858](https://github.com/user-attachments/assets/b2f17bbc-8d74-4c86-a282-b54f60843a38)
 
-![image](https://github.com/NikhTheTech/Smart-Contract-Management/assets/95464996/1f5ab53a-ca0f-44d9-99a3-dde7f5a343d3)
 
+![Screenshot 2024-07-13 210102](https://github.com/user-attachments/assets/c3025df4-dce5-40a9-8fc7-8ad0abba3bfe)
 
 
 ## Smart Contract
