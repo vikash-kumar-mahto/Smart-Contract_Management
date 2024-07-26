@@ -27,7 +27,8 @@ This project showcases a basic implementation of a decentralized bank using Ethe
 
 ### Application Preview 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/511fb30b-baf4-486e-8fe8-f22a36b57188)
+
 
 
 
