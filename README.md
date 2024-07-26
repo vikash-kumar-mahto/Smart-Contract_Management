@@ -27,10 +27,8 @@ This project showcases a basic implementation of a decentralized bank using Ethe
 
 ### Application Preview 
 
-![Screenshot 2024-07-13 205858](https://github.com/user-attachments/assets/b2f17bbc-8d74-4c86-a282-b54f60843a38)
+![Uploading image.png…]()
 
-
-![Screenshot 2024-07-13 210102](https://github.com/user-attachments/assets/c3025df4-dce5-40a9-8fc7-8ad0abba3bfe)
 
 
 ## Smart Contract
