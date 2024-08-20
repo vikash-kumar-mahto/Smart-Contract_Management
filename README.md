@@ -55,7 +55,6 @@ http://localhost:3000
 - `contracts/` - Contains the Solidity smart contract code
 
 # Author
-PALAK JAIN :)
+Vikash :)
 
-# Licence
-This project is licensed under the [MIT License](LICENSE).
+
