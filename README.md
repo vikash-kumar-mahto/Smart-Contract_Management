@@ -13,29 +13,24 @@ In this project, React and Ethereum blockchain technologies are used to create a
 2. Metamask wallet extension installed in your browser
 
 # Implementation
-1. Clone the repository:
-   
-```bash
-git clone <https://github.com/Palakkkkkkkkkk/METACRAFTERS-ETH-AVAX-MODULE-2.git>
-```
 
-2. Install the dependencies ( IF THE DEPENDENCIES DOES NOT INSTALL CORRECTLY THEN USE --force ):
+1. Install the dependencies ( IF THE DEPENDENCIES DOES NOT INSTALL CORRECTLY THEN USE --force ):
 
 ```bash
 npm i
 ```
 
-3. Open two additional terminals in your VS code.
-4. In the second terminal type: npx hardhat node.
-5. In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js.
-6. Back in the first terminal, type npm run dev to launch the front-end.
-7. Open the application in your browser, the project will be running on your localhost. Typically at:
+2. Open two additional terminals in your VS code.
+3. In the second terminal type: npx hardhat node.
+4. In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js.
+5. Back in the first terminal, type npm run dev to launch the front-end.
+6. Open the application in your browser, the project will be running on your localhost. Typically at:
 
 ```bash
 http://localhost:3000
 ```
 
-8. Connect your MetaMask wallet and interact with the ATM interface.
+7. Connect your MetaMask wallet and interact with the ATM interface.
 
 # Technologies Used
 
